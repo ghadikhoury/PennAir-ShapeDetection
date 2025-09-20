@@ -51,7 +51,4 @@ The pipeline was developed in **Python (OpenCV + NumPy)** and performs:
 - **Shapes dropping in/out** → tracking layer stabilized identity.  
 - **Background agnosticism** → tuned solidity/area thresholds to remove clutter.
 
----
-
-## 📂 Repository Contents
 
